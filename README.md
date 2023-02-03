@@ -1,0 +1,1 @@
+This is just a [Flask tutorial](https://www.youtube.com/watch?v=Qr4QMBUPxWo&list=LL&index=6&t=30s&ab_channel=freeCodeCamp.org) I followed to prepare for my internship.
